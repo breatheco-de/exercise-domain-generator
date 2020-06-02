@@ -2,7 +2,7 @@
 	"title" : "Domain Name Generator",
 	"slug" : "domain-generator",
 	"status": "published",
-	"solution" : "https://bitbucket.org/codingacademy/domain-generator",
+	"solution" : "https://github.com/breatheco-de/exercise-domain-generator/tree/solution",
 	"preview" : "https://github.com/breatheco-de/exercise-domain-generator/blob/master/preview.png?raw=true",
 	"difficulty": "easy",
 	"technologies": ["javascript", "node"],
