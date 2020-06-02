@@ -42,6 +42,9 @@ Your tools: For loop, string concatenation.
 
 ## 😎 Feeling confident?
 
+- Add several types of extensions: .com, .net, .us, .io, etc.
+- Add domain hacks, for example: instead of `lastOfUs.com` you can use the `.us` domain like this: `lastOf.us`
+
 ## A bit of history about the project
 
 Before the domain market was centralized and converted into a mafia 
