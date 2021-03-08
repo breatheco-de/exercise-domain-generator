@@ -2,13 +2,24 @@
 
 Finding a domain name is hard, why not automate it? :)
 
-## 💻 Installation
 
-1. Start a new empty project.
-2. Create one `app.js` javascript file.
-3. Add your code inside your app.js file.
-4. You have to use `console.log("Any string");` to show something on the console.
-5. Run your code by typing: `$ node app.js`.
+## 🌱  How to start this project
+
+This project comes with the necessary files to start working, but you have two options to start:
+
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-domain-generator.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-domain-generator.git
+```
+### Then follow this steps:
+
+1. Create one `app.js` javascript file.
+2. Add your code inside your app.js file.
+3. You have to use `console.log("Any string");` to show something on the console.
+4. Run your code by typing: `$ node app.js`, **if you run it locally, make sure you have node.js**
+
 
 ## 📝 Instructions
 
