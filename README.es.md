@@ -2,18 +2,29 @@
 
 Encontrar un nombre de dominio es difícil, ¿por qué no automatizarlo? :)
 
-## 💻 Installation
+## 🌱  Cómo iniciar este proyecto
 
-1. Empieza un proyecto nuevo vacio.
-2. Crea un fichero `app.js` que va a contener tu codigo.
-3. Agrega tu codigo dentro del fichero.
-4. Puedes utilizar `console.log("Any string");` para imprimir un mensaje en la consola.
-5. Ejecuta tu codigo typeando en la linea de comandos: `$ node app.js`.
+No clones este repositorio.
+
+
+ El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+### Luego sigue estas instrucciones:
+
+1. Crea un archivo javascript `app.js`.
+2. Agrega tu código en el archivo.
+2. Tienes que usar `console.log("Hello World");` para imprimir un mensaje en la consola.
+4. Ejecuta tu codigo escribiendo en la terminal: `$ node app.js`** si lo ejecutas localmente, asegúrate de tener node.js **
 
 ## 📝 Instrucciones
 
-Crea un script que genere todas las combinaciones posibles de nombres de dominio.
-de una lista de pronombres, adjetivos y sustantivos, por ejemplo:
+Crea un script que genere todas las combinaciones posibles de nombres de dominio de una lista de pronombres, adjetivos y sustantivos, por ejemplo:
 
 ```js
   var pronoun = ['the','our'];
@@ -36,20 +47,18 @@ ourbigracoon.com
 
 ### 💡Sugerencia
 
-Deberás usar los bucles anidados para mezclar los diferentes valores.
-Sus herramientas: Para bucle, concatenación de strings.
+Deberás usar los bucles o loops anidados para mezclar los diferentes valores.
 
-## 😎 Te sientes con confianza?
+Tus herramientas: Para bucles o loops, concatenación de strings.
 
-- Permite que las extensiones de dominio tambien puedan variar, por ejemplo: .com, .net, .us, .io, etc.
+## 😎 ¿Te sientes con confianza?
+
+- Agrega varios tipos de extensiones por ejemplo: .com, .net, .us, .io, etc.
 - Agrega "domain hacks" donde la extension forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" seria `pued.es` porque sigue diciendo "puedes" pero se aprovecha de la extension `.es`.
 
 ## Un poco de historia sobre el proyecto
 
-Antes de que el mercado de dominios fuera centralizado y convertido en una mafia.
-controlado por Godaddy, Enom y algunos otros. Ciudadanos como tú y yo
-Fueron capaces de comprar un dominio .com de forma realmente fácil. 
+Antes de que el mercado de dominios fuera centralizado y se convirtiera en una mafia controlada por Godaddy, Enom y algunos otros. Las personas como tú y yo pudimos comprar un dominio .com de forma realmente fácil. 
 
-De hecho, este proyecto fue construido originalmente en 2002 por uno de los maestros de 4Geeks
-mientras intentaba encontrar nombres de dominio para comprar para varios proyectos.
+De hecho, este proyecto fue construido originalmente en 2002 por uno de los maestros de 4Geeks mientras buscaba nombres de dominio para varios proyectos.
 

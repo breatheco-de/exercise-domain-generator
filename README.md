@@ -2,13 +2,26 @@
 
 Finding a domain name is hard, why not automate it? :)
 
-## 💻 Installation
 
-1. Start a new empty project.
-2. Create one `app.js` javascript file.
-3. Add your code inside your app.js file.
-4. You have to use `console.log("Any string");` to show something on the console.
-5. Run your code by typing: `$ node app.js`.
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
+
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+
+b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+### Then follow this steps:
+
+1. Create one `app.js` javascript file.
+2. Add your code inside your app.js file.
+3. You have to use `console.log("Any string");` to show something on the console.
+4. Run your code by typing: `$ node app.js`, **if you run it locally, make sure you have node.js**
+
 
 ## 📝 Instructions
 
