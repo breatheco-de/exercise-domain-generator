@@ -7,7 +7,7 @@ Encontrar un nombre de dominio es difícil, ¿por qué no automatizarlo? :)
 No clones este repositorio.
 
 
- El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu compjutador local o con Gitpod.
+ El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
 
