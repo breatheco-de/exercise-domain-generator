@@ -6,7 +6,7 @@
 	"preview" : "https://github.com/breatheco-de/exercise-domain-generator/blob/master/preview.png?raw=true",
 	"difficulty": "easy",
 	"technologies": ["javascript", "node"],
-	"syntax": "javascript",
+	"language": "vanillajs",
 	"duration" : 4,
 	"translations": ["es", "us"],
 	"description" : "The domain mafia is far from over, with more domain extensions every day is a good idea to chase for great domain available to buy. Who knows, maybe you get lucky and become a millionaire!",
