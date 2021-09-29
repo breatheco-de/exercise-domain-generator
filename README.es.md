@@ -45,7 +45,7 @@ ourbigjogger.com
 ourbigracoon.com
 ```
 
-### 💡Sugerencia
+### 💡Sugerencias
 
 Deberás usar los bucles o loops anidados para mezclar los diferentes valores.
 
@@ -54,9 +54,9 @@ Tus herramientas: Para bucles o loops, concatenación de strings.
 ## 😎 ¿Te sientes con confianza?
 
 - Agrega varios tipos de extensiones por ejemplo: .com, .net, .us, .io, etc.
-- Agrega "domain hacks" donde la extension forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" seria `pued.es` porque sigue diciendo "puedes" pero se aprovecha de la extension `.es`.
+- Agrega "domain hacks" donde la extensión forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" seria `pued.es` porque sigue diciendo "puedes" pero se aprovecha la extension `.es`.
 
-## Un poco de historia sobre el proyecto
+## Un poco de historia sobre el proyecto.
 
 Antes de que el mercado de dominios fuera centralizado y se convirtiera en una mafia controlada por Godaddy, Enom y algunos otros. Las personas como tú y yo pudimos comprar un dominio .com de forma realmente fácil. 
 
