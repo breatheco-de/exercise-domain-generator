@@ -17,5 +17,7 @@
 		{ "badge": "looper", "points": 10 },
 		{ "badge": "abc", "points": 5 },
 		{ "badge": "functional-developer", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
