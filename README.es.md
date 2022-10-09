@@ -20,7 +20,7 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clo
 1. Crea un archivo javascript `app.js`.
 2. Agrega tu código en el archivo.
 2. Tienes que usar `console.log("Hello World");` para imprimir un mensaje en la consola.
-4. Ejecuta tu codigo escribiendo en la terminal: `$ node app.js`** si lo ejecutas localmente, asegúrate de tener node.js **
+4. Ejecuta tu código escribiendo en la terminal: `$ node app.js`** si lo ejecutas localmente, asegúrate de tener node.js **
 
 ## 📝 Instrucciones
 
@@ -54,7 +54,8 @@ Tus herramientas: Para bucles o loops, concatenación de strings.
 ## 😎 ¿Te sientes con confianza?
 
 - Agrega varios tipos de extensiones por ejemplo: .com, .net, .us, .io, etc.
-- Agrega "domain hacks" donde la extensión forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" seria `pued.es` porque sigue diciendo "puedes" pero se aprovecha la extension `.es`.
+
+- Agrega "domain hacks" donde la extensión forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" seria `pued.es` porque sigue diciendo "puedes" pero se aprovecha la extensión `.es`.
 
 ## Un poco de historia sobre el proyecto
 
