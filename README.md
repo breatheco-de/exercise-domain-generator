@@ -1,6 +1,6 @@
 # The Domain Name Generator
 
-Finding a domain name is hard, why not automate it? :)
+Finding a domain name is hard, why not automize it? :)
 
 
 ## 🌱  How to start this project
