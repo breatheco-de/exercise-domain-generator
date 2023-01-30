@@ -1,6 +1,8 @@
+<!--hide-->
 # The Domain Name Generator
+<!--endhide-->
 
-Finding a domain name is hard, why not automate it? :)
+Finding a domain name is hard, so why not automate it? :)
 
 
 ## 🌱  How to start this project
@@ -11,11 +13,11 @@ The first step to start coding is cloning the [vanillajs boilerplate](https://gi
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
 
-b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+b) If working locally, type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-### Then follow this steps:
+### Then follow these steps:
 
 1. Create one `app.js` javascript file.
 2. Add your code inside your app.js file.
@@ -47,7 +49,7 @@ ourbigjogger.com
 ourbigracoon.com
 ```
 
-### 💡Hint
+### 💡 Hint
 
 You'll need to use nested for loops in order to mix the different values together.
 
@@ -61,9 +63,9 @@ Your tools: For loop, string concatenation.
 ## A bit of history about the project
 
 Before the domain market was centralized and converted into a mafia 
-controlled by Godaddy, Enom and some others. Normal people like you and me 
-were able to buy a .com domain relatively easy. 
+controlled by Godaddy, Enom, and others. Normal people like you and me 
+are able to buy a .com domain relatively easily. 
 
-In fact, this project was originally built in 2002 by one of 4Geeks teachers 
+In fact, this project was originally built in 2002 by one of the 4Geeks teachers 
 while he was trying to find domain names to buy for several projects.
 

@@ -1,4 +1,6 @@
-# The Domain Name Generator
+<!--hide-->
+# El Generador de Nombres de Dominio
+<!--endhide-->
 
 Encontrar un nombre de dominio es difícil, ¿por qué no automatizarlo? :)
 
@@ -53,9 +55,9 @@ Tus herramientas: Para bucles o loops, concatenación de strings.
 
 ## 😎 ¿Te sientes con confianza?
 
-- Agrega varios tipos de extensiones por ejemplo: .com, .net, .us, .io, etc.
+- Agrega varios tipos de extensiones, por ejemplo: .com, .net, .us, .io, etc.
 
-- Agrega "domain hacks" donde la extensión forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" seria `pued.es` porque sigue diciendo "puedes" pero se aprovecha la extensión `.es`.
+- Agrega "domain hacks" donde la extensión forma parte del dominio, por ejemplo: En lugar de `puedes.com` el "hack" sería `pued.es` porque sigue diciendo "puedes" pero se aprovecha la extensión `.es`.
 
 ## Un poco de historia sobre el proyecto
 
