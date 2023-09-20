@@ -33,9 +33,9 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 1. Create a script that generates all the possible domain name combinations from a list of pronouns, adjectives and nouns, for example:
 
 ```js
-  let pronoun = ['the','our'];
-  let adj = ['great', 'big' ];
-  let noun = ['jogger','racoon'];
+  let pronoun = ['the', 'our'];
+  let adj = ['great', 'big'];
+  let noun = ['jogger', 'racoon'];
 ```
 
 Should generate something like:
@@ -51,7 +51,7 @@ ourbigjogger.com
 ourbigracoon.com
 ```
 
-## 💡 Hint
+## 💡 Hints
 
 + You'll need to use nested for loops in order to mix the different values together.
 
