@@ -65,7 +65,7 @@ ourbigracoon.com
 
 ## Un poco de historia sobre el proyecto
 
-Antes de que el mercado de dominios fuera centralizado y se convirtiera en una mafia controlada por Godaddy, Enom y algunos otros. Las personas como tú y yo podiamos comprar un dominio `.com` relatívamente fácil. 
+Antes de que el mercado de dominios fuera centralizado y se convirtiera en una mafia controlada por Godaddy, Enom y algunos otros. Las personas como tú y yo podíamos comprar un dominio `.com` relativamente fácil. 
 
 De hecho, este proyecto fue construido originalmente en 2002 por uno de los maestros de 4Geeks mientras buscaba nombres de dominio para varios proyectos.
 
