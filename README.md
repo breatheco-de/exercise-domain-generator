@@ -26,7 +26,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 1. Create one `app.js` JavaScript file.
 2. Add your code inside your app.js file.
 3. You have to use `console.log("Any string");` to show something on the console.
-4. Run your code by typing: `$ node app.js`, **if you run it locally, make sure you have node.js**
+4. Run your code by typing: `$ node app.js`, **if you run it locally, make sure you have node.js**.
 
 ## 📝 Instructions
 
