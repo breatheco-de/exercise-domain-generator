@@ -34,7 +34,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 ```js
   let pronoun = ['the', 'our'];
-  let adj = ['great', 'big'];
+  let adj = ['great', 'huge'];
   let noun = ['jogger', 'racoon'];
 ```
 
@@ -45,10 +45,10 @@ thegreatjogger.com
 thegreatracoon.com
 ourgreatjogger.com
 ourgreatracoon.com
-thebigjogger.com
-thebigracoon.com
-ourbigjogger.com
-ourbigracoon.com
+thehugejogger.com
+thehugeracoon.com
+ourhugejogger.com
+ourhugeracoon.com
 ```
 
 ## 💡 Hints
