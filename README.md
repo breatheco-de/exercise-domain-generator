@@ -59,7 +59,7 @@ ourbigracoon.com
 
 ## 😎 Feeling confident?
 
-- Add several types of extensions: .com, .net, .us, .io, etc.
+- Add several types of extensions: .com, .net, .us, .io, .org ,etc. 
 
 - Add domain hacks, for example: instead of `lastOfUs.com` you can use the `.us` domain like this: `lastOf.us`
 
