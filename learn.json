@@ -8,7 +8,7 @@
 	"technologies": ["javascript", "node"],
 	"language": "vanillajs",
 	"duration" : 4,
-	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
+	"template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
 	"translations": ["es", "us"],
 	"description" : "The domain mafia is far from over, with more domain extensions every day is a good idea to chase for great domain available to buy. Who knows, maybe you get lucky and become a millionaire!",
 	"talents": [
