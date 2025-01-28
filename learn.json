@@ -1,5 +1,8 @@
 {
-	"title" : "Domain Name Generator",
+	"title" : {
+    "us": "Domain Name Generator",
+    "es": "Generador de Nombres de Dominios"
+},
 	"slug" : "domain-generator",
 	"status": "published",
 	"solution" : "https://github.com/breatheco-de/exercise-domain-generator/tree/solution",
@@ -9,7 +12,10 @@
 	"language": "vanillajs",
 	"duration" : 4,
 	"translations": ["es", "us"],
-	"description" : "The domain mafia is far from over, with more domain extensions every day is a good idea to chase for great domain available to buy. Who knows, maybe you get lucky and become a millionaire!",
+	"description" : {
+    "us": "Create Unique Domain Names:  The domain mafia is far from over! With new extensions popping up daily, there's a chance to score a fantastic domain. Build a script to generate creative combinations using pronouns, adjectives, and nouns. Who knows? Your idea might lead to millions!",
+    "es": "Crea Nombres de Dominio Únicos: La mafia de los dominios está lejos de terminar. Con nuevas extensiones surgiendo cada día, tienes la oportunidad de conseguir un dominio fantástico. Crea un script que genere combinaciones creativas usando pronombres, adjetivos y sustantivos. ¡Quién sabe, quizá tu idea te lleve a millones!"
+},
 	"talents": [
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "tag-master", "points": 3 },
@@ -19,5 +25,8 @@
 		{ "badge": "functional-developer", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=197"
+}
 }
