@@ -1,5 +1,6 @@
 {
-	"title" : {
+    "gitpod": true,
+    "title" : {
     "us": "Domain Name Generator",
     "es": "Generador de Nombres de Dominios"
 },
