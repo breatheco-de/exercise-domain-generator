@@ -4,6 +4,8 @@
 
 Finding a domain name is hard, so why not automate it? :)
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 Do not clone this repository because we are going to be using a different template.
@@ -26,6 +28,8 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 1. Add your code inside your app.js file.
 2. You have to use `console.log("Any string");` to show something on the console.
 3. Run your code by typing: `npm run start`, **if you run it locally, make sure you have node.js**
+
+</onlyfor>
 
 ## 📝 Instructions
 
